@@ -1,0 +1,14 @@
+{
+  "name": "upload-service",
+  "version": "1.0.0",
+  "description": "A simple file uploading service",
+  "dependencies": {
+    "uuid": "^2.0.1",
+    "express": "^4.13.3"
+  },
+  "scripts": {
+    "start": "node bin/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "Atlassian"
+}
